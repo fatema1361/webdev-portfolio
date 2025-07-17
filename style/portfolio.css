@@ -43,7 +43,7 @@
 .header{
    background-image: url('../images/developer.png'), url('../images/header_bg.png');
 background-repeat: no-repeat;
-background-position: top left,bottom right;
+background-position: top left,bottom right;}
 
 /* Nav styles */
 nav{
@@ -107,10 +107,15 @@ margin-top: 130px;
     display: flex;
     justify-content: space-between;
 }
-.item-description{
-    font-weight: 600px;
-}
 
+.item-description{
+    font-weight: 600;
+
+}
+.about-item{
+
+    
+}
 
 
 
